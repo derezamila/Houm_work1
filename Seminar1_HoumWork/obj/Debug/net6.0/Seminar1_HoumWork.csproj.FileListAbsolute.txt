@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\bin\Debug\net6.0\Seminar1_HoumWork.exe
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\bin\Debug\net6.0\Seminar1_HoumWork.deps.json
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\bin\Debug\net6.0\Seminar1_HoumWork.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\bin\Debug\net6.0\Seminar1_HoumWork.dll
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\bin\Debug\net6.0\Seminar1_HoumWork.pdb
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.dll
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\refint\Seminar1_HoumWork.dll
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.pdb
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\Seminar1_HoumWork.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#\Seminar1_HoumWork\obj\Debug\net6.0\ref\Seminar1_HoumWork.dll
